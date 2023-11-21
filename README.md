@@ -43,7 +43,7 @@
   <img height=25 src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Flask" title="Flask"/>
   <img height=25 src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Flask" title="Flask"/>
   <img height=25 src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Flask" title="Flask"/>
-  <img height=25 rc="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="Flask" title="Flask"/>
+  <img height=25 src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="Flask" title="Flask"/>
   <img height=25 src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Flask" title="Flask"/>
 </div>
 
