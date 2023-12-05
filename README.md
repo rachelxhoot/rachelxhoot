@@ -47,7 +47,7 @@
   <img height=25 src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Flask" title="Flask"/>
 </div>
 
-<h5> Otehrs </h5> 
+<h5> Others </h5> 
 <div align="start">
 	<img height=25 src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" alt="Flask" title="Flask"/>
   <img height=25 src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Flask" title="Flask"/>
