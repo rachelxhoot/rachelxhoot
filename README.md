@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Shuting 👩‍💻
 
 - 🧐 I love building things, from web to software to AI applications.
-- 🎓 B. Eng. in Computer science and technology.
-- 🔭 Currently I'm working on intelligent system as a C++ developer.
+- 🎓 B. Eng. in Computer Science and Technology.
+- 🔭 Currently I'm working on automative intelligent system as a C++ developer.
 - 🌐 I created this [website](https://rachelxhoot.com) to document the projects I have worked on, as well as my musings and ideas.
 - ✍🏻 Hoping to contribute more to open source!
 ---
