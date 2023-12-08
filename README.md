@@ -18,8 +18,8 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 - [ViT-Height](https://github.com/rachelxhoot/ViT-Height) : A Height Estimation Method Based on Multi-Modal Learning 📏
-- [MusiBook](https://github.com/rachelxhoot/MusiBook) : An all-in-one application encompassing e-book reading and music playback. 📖🎵
-- [Flight-Inquiry-and-Booking-System](https://github.com/rachelxhoot/Flight-Inquiry-and-Booking-System) : A web-based application designed to streamline the flight inquiry and booking process. ✈️
+- [MusiBook](https://github.com/rachelxhoot/MusiBook) : An all-in-one application encompassing e-book reading and music playback 📖🎵
+- [Flight-Inquiry-and-Booking-System](https://github.com/rachelxhoot/Flight-Inquiry-and-Booking-System) : A web-based application designed to streamline the flight inquiry and booking process ✈️
 - [The Optimization Model with Two Systems](https://rachelxhoot.com/The-Optimization-Model-with-Two-Systems-3b88992613114b8ebb9290dc3b745411) : We're awarded the title of Meritorious Winner in MCM 2022! 🏆
 
 
