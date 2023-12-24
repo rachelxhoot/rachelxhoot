@@ -20,8 +20,6 @@
 - [ViT-Height]([https://github.com/rachelxhoot/ViT-Height](https://rachelxhoot.com/ViT-Height-939d9f7563984179bdfd8399b1d0e5ab)) : A Height Estimation Method Based on Multi-Modal Learning 📏
 - [MusiBook](https://rachelxhoot.com/MusiBooks-an-E-book-with-music-3f8611750f7c4ed6828882c9b62eea3f) : An all-in-one application encompassing e-book reading and music playback 📖🎵
 - [The Optimization Model with Two Systems](https://rachelxhoot.com/The-Optimization-Model-with-Two-Systems-3b88992613114b8ebb9290dc3b745411) : We're awarded the title of Meritorious Winner in MCM 2022! 🏆
-- [Flight-Inquiry-and-Booking-System]() : A web-based application designed to streamline the flight inquiry and booking process ✈️
-- [The Optimization Model with Two Systems](https://rachelxhoot.com/The-Optimization-Model-with-Two-Systems-3b88992613114b8ebb9290dc3b745411) : We're awarded the title of Meritorious Winner in MCM 2022! 🏆
 
 <h5> Tech Stacks </h5> 
 
