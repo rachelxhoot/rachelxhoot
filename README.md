@@ -22,8 +22,6 @@
 - [The Optimization Model with Two Systems](https://rachelxhoot.com/The-Optimization-Model-with-Two-Systems-3b88992613114b8ebb9290dc3b745411) : We're awarded the title of Meritorious Winner in MCM 2022! 🏆
 - [Flight-Inquiry-and-Booking-System]() : A web-based application designed to streamline the flight inquiry and booking process ✈️
 - [The Optimization Model with Two Systems](https://rachelxhoot.com/The-Optimization-Model-with-Two-Systems-3b88992613114b8ebb9290dc3b745411) : We're awarded the title of Meritorious Winner in MCM 2022! 🏆
-- [Machine-Learning-Experiments](https://rachelxhoot.com/Machine-Learning-Experiments-58192eff7d9e47c6a38fcab4e2a24521): Hands-on learning experiences with machine learning algorithms! 🤖
-
 
 <h5> Tech Stacks </h5> 
 
